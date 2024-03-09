@@ -9,6 +9,7 @@
 ## 課程筆記區
 ## 作業連結區
 HW1：https://youtu.be/FM5JwOTP1ls
+https://colab.research.google.com/drive/1hxLqpMtfMxOqK0NfHr8tV-eVrm97zkgA?usp=sharing
 
 
 ## 專題連結區
