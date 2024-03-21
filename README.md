@@ -13,6 +13,8 @@ HW1：https://youtu.be/FM5JwOTP1ls
 https://colab.research.google.com/drive/1hxLqpMtfMxOqK0NfHr8tV-eVrm97zkgA?usp=sharing
 
 [HW2](https://github.com/szuyu830/PL/blob/5e7863a6588eb9968860b9b934cbc822d042a876/HW2/HW2.ipynb)
+[圖檔程式碼](https://github.com/szuyu830/PL/blob/506e58e6405c65bb6091e41e8796665f87b67d3f/HW2/file.py)
+
 
 
 ## 專題連結區
