@@ -1,0 +1,21 @@
+from pypinyin import pinyin, Style
+import matplotlib.pyplot as plt
+
+# 資料
+names = {
+    "男生": ["家豪", "志明", "建宏", "俊傑", "俊宏", "志豪", "志偉", "承翰", "冠宇", "志強"],
+    "女生": ["淑芬", "淑惠", "美玲", "麗華", "美惠", "淑貞", "雅婷", "秀英", "淑娟", "秀琴"]
+}
+
+# 將姓名轉換成羅馬拼音
+names_pinyin = {gender: ["".join(pinyin(name, style=Style.NORMAL)[0]) for name in names[gender]] for gender in names}
+
+# 計算各名字出現次數
+counts = {gender: len(names[gender]) for gender in names}
+
+# 繪製圓餅圖
+plt.figure(figsize=(10, 6))
+plt.pie(counts.values(), labels=counts.keys(), autopct='%1.1f%%')
+plt.title('全台最常見名字男女比例')
+plt.show()
+
