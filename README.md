@@ -16,6 +16,7 @@
 [圖檔](https://colab.research.google.com/drive/1lWSLt00f7Qk1pHOWgOeA33eEvPIQrp7Y?authuser=0)
 
 [HW3](https://github.com/szuyu830/PL/blob/fe415d1e0bef639676541db7d3e96deabbfe7ecd/HW3/HW3.ipynb)
+[講解](https://youtu.be/gDwlIet3Wfg)
 
 
 
