@@ -18,6 +18,8 @@
 [HW3](https://github.com/szuyu830/PL/blob/fe415d1e0bef639676541db7d3e96deabbfe7ecd/HW3/HW3.ipynb)
 [程式講解](https://youtu.be/gDwlIet3Wfg)
 
+[HW4](https://github.com/szuyu830/PL/blob/9bb5925c2acec5a5abb1597e18d6453792facbf7/HW4/HW4.ipynb)
+
 
 
 
